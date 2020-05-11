@@ -1,1 +1,1 @@
-# 3SAT-To-Vertex-Cover-Reduce
+# 3SAT-To-Vertex-Cover-Reduction
